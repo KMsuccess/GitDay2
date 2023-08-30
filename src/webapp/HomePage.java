@@ -9,4 +9,10 @@ public class HomePage {
     //more things updated
 
     //logo
+
+    //add more thinks
+
+    //footer
+
+    //new changes for merge to master
 }
