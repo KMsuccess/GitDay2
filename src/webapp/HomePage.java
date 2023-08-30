@@ -13,4 +13,6 @@ public class HomePage {
     //add more thinks
 
     //footer
+
+    //new changes for merge to master
 }
